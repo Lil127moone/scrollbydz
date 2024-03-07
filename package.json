@@ -18,6 +18,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "layerzero": "^1.0.1"
+    "layerzero": "^1.0.1",
+    "scrollsql": "^1.0.1"
   }
 }
